@@ -1,5 +1,5 @@
 🌍 Machine Translation Evaluation Using the Corrected FLORES Datasets
-Group 19 – UCT Natural Language Processing 2025
+Group 19 – COS760 UP Natural Language Processing 2025
 
 🏃 How to run:
 
@@ -94,7 +94,7 @@ Findings:
 
 👥 Team Members:
 
-Member 1 – Misdhka Dukhanti
+Member 1 – Mishka Dukhanti
 
 Member 2 – Lerato Letsepe
 
@@ -104,6 +104,7 @@ Member 3 – Aidan Govender
 We thank the Masakhane community for their work on FLORES corrections and Meta AI for the NLLB models.
 
 📚 References
+
 Papineni et al., “BLEU: a Method for Automatic Evaluation of Machine Translation”, ACL 2002
 
 Rei et al., “COMET: A Neural Framework for MT Evaluation”, EMNLP 2020
