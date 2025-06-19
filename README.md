@@ -2,9 +2,12 @@
 Group 19 – UCT Natural Language Processing 2025
 
 🏃 How to run:
-- Clone the github repository
-- Execute Lost_In_Translation_Notebook.ipynb notebook file: Upload and run all cells either in Google Colab T4 runtime, or locally in Jupyter Notebook or equivalent.
-- We strongly advice using Google Colab's T4 runtime if local Jupyter Notebook is not powered by a GPU - the NLLB 3B model requires a GPU for faster processing.
+
+-Clone the github repository.
+
+-Execute "Lost_In_Translation_Notebook.ipynb" notebook file: Upload and run all cells either in Google Colab T4 runtime, or locally in Jupyter Notebook or equivalent.
+
+-We strongly advice using Google Colab's T4 runtime if local Jupyter Notebook is not powered by a GPU - the NLLB 3B model requires a GPU for faster processing.
 
 📌 Project Overview
 
@@ -30,7 +33,7 @@ This project evaluates the quality of machine translation (MT) systems before an
 
 📊 Evaluation Metrics
 
-W-e use both automatic metrics and human-aligned scoring systems to assess quality:
+We use both automatic metrics and human-aligned scoring systems to assess quality:
 
 Metric	Type	Description : 
 BLEU	Lexical / N-gram	Measures n-gram precision vs. reference translations. Common in MT benchmarking.
